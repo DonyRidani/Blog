@@ -1,6 +1,6 @@
 ---
-title: "Archives"
-date: 2022-03-06
+title: "Arsip"
+date: 2023-01-21
 layout: "archives"
 slug: "archives"
 menu:
